@@ -1,0 +1,13 @@
+ 
+build:
+ info: 3.0
+ 
+#by using prefix to retrieve using @ConfigurationProperties
+loans:
+ message: welcome to eazybank application loans related PROD info
+ contactDetails:
+  name: Mariel.co PRODUCT OWNER
+  email: marielkorean@gmail.com
+ onCallSupport: (055)-099-767, (888)-989-888
+
+ 

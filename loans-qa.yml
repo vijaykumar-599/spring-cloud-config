@@ -1,0 +1,13 @@
+ 
+build:
+ info: 3.0
+ 
+#by using prefix to retrieve using @ConfigurationProperties
+loans:
+ message: welcome to eazybank application loans related QA info
+ contactDetails:
+  name: brandon.co QA LEAD
+  email: brandon343@gmail.com
+ onCallSupport: (055)-099-767, (888)-989-888
+
+ 
