@@ -4,7 +4,7 @@ build:
  
 #by using prefix to retrieve using @ConfigurationProperties
 loans:
- message: welcome to eazybank application loans related PRODUCTION info
+ message: welcome to eazybank application loans related prod bus refresh info
  contactDetails:
   name: Mariel.co PRODUCT OWNER
   email: "{cipher}294ac2f5ba33510deb3daa56b49895d367a05e64f42fb301eff286eb000648384c13214b616b5e3e5283482303ab50c9"
